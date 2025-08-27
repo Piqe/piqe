@@ -43,7 +43,7 @@
 <p align="center">
   <img alt="Power BI" height="40px" src="https://img.icons8.com/color/48/000000/power-bi.png" />
   <img alt="Tableau" height="40px" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" />
-  <img alt="Google Looker" height="40px" src="https://images.seeklogo.com/logo-png/39/1/google-looker-logo-png_seeklogo-394597.png" />
+  <img alt="Google Looker" height="40px" src="https://www.svgrepo.com/show/354012/looker-icon.svg" />
   <img alt="Visual Studio Code" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
 </p>
 
